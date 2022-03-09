@@ -15,3 +15,8 @@ Memory Usage: 42 MB, less than 80.25% of Java online submissions for Two Sum.<br
 Rank: Easy<br />
 Runtime: 7 ms, faster than 89.77% of Java online submissions for Palindrome Number.<br />
 Memory Usage: 41.7 MB, less than 69.12% of Java online submissions for Palindrome Number.<br />
+
+13 Roman to Integer: https://leetcode.com/problems/roman-to-integer/<br />
+Rank: Easy<br />
+Runtime: 3 ms, faster than 98.29% of Java online submissions for Roman to Integer.<br />
+Memory Usage: 42.2 MB, less than 81.55% of Java online submissions for Roman to Integer.<br />
