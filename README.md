@@ -21,5 +21,6 @@ Runtime: 3 ms, faster than 98.29% of Java online submissions for Roman to Intege
 Memory Usage: 42.2 MB, less than 81.55% of Java online submissions for Roman to Integer.<br />
 
 26 Remove Duplicates from Sorted Array:https://leetcode.com/problems/remove-duplicates-from-sorted-array/<br />
+Rank: Easy<br />
 Runtime: 2 ms, faster than 43.93% of Java online submissions for Remove Duplicates from Sorted Array.<br />
 Memory Usage: 47.7 MB, less than 36.44% of Java online submissions for Remove Duplicates from Sorted Array.<br />
