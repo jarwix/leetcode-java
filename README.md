@@ -10,7 +10,6 @@ Rank: Easy<br />
 Runtime: 58 ms, faster than 32.70% of Java online submissions for Two Sum.<br />
 Memory Usage: 42 MB, less than 80.25% of Java online submissions for Two Sum.<br />
 
-
 9 Palindrome Number: https://leetcode.com/problems/palindrome-number/<br />
 Rank: Easy<br />
 Runtime: 7 ms, faster than 89.77% of Java online submissions for Palindrome Number.<br />
@@ -20,3 +19,7 @@ Memory Usage: 41.7 MB, less than 69.12% of Java online submissions for Palindrom
 Rank: Easy<br />
 Runtime: 3 ms, faster than 98.29% of Java online submissions for Roman to Integer.<br />
 Memory Usage: 42.2 MB, less than 81.55% of Java online submissions for Roman to Integer.<br />
+
+26 Remove Duplicates from Sorted Array:https://leetcode.com/problems/remove-duplicates-from-sorted-array/<br />
+Runtime: 2 ms, faster than 43.93% of Java online submissions for Remove Duplicates from Sorted Array.<br />
+Memory Usage: 47.7 MB, less than 36.44% of Java online submissions for Remove Duplicates from Sorted Array.<br />
