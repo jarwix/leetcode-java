@@ -20,12 +20,17 @@ Rank: Easy<br />
 Runtime: 3 ms, faster than 98.29% of Java online submissions for Roman to Integer.<br />
 Memory Usage: 42.2 MB, less than 81.55% of Java online submissions for Roman to Integer.<br />
 
-26 Remove Duplicates from Sorted Array:https://leetcode.com/problems/remove-duplicates-from-sorted-array/<br />
+26 Remove Duplicates from Sorted Array: https://leetcode.com/problems/remove-duplicates-from-sorted-array/<br />
 Rank: Easy<br />
 Runtime: 2 ms, faster than 43.93% of Java online submissions for Remove Duplicates from Sorted Array.<br />
 Memory Usage: 47.7 MB, less than 36.44% of Java online submissions for Remove Duplicates from Sorted Array.<br />
 
-231 Power of Two:https://leetcode.com/problems/power-of-two/<br />
+58 Length of Last Word: https://leetcode.com/problems/length-of-last-word/<br />
+Rank: Easy<br />
+Runtime: 0 ms, faster than 100.00% of Java online submissions for Length of Last Word.<br />
+Memory Usage: 42.6 MB, less than 25.73% of Java online submissions for Length of Last Word.<br />
+
+231 Power of Two: https://leetcode.com/problems/power-of-two/<br />
 Rank: Easy<br />
 Runtime: 3 ms, faster than 11.69% of Java online submissions for Power of Two.<br />
 Memory Usage: 41.1 MB, less than 69.78% of Java online submissions for Power of Two.<br />
